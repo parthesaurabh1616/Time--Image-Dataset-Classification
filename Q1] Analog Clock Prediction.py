@@ -31,10 +31,9 @@ BATCH_SIZE = 16
 EPOCHS = 20
 
 # Path to the folder containing analog clock images
-IMAGE_FOLDER = "C://Users/saura/OneDrive/Desktop/MothersonProjectTemplate/Analog Clock/data/analog_clock_jpg/content/images/analog_clock_jpg"
-
+IMAGE_FOLDER = "Your Path"
 # Path to the labels CSV file
-CSV_PATH = "C://Users/saura/OneDrive/Desktop/MothersonProjectTemplate/Analog Clock/labels.csv"
+CSV_PATH = "Your Path"
 
 
 # # Step 3: Read CSV and Prepare Data
